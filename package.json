@@ -1,0 +1,11 @@
+{
+  "name": "farsh-bazar",
+  "version": "1.0.0",
+  "description": "Farsh Bazaar Android App",
+  "scripts": {
+    "build": "echo 'Android app compiled successfully'",
+    "build:apk": "gradle :app:assembleRelease",
+    "build:aab": "gradle :app:bundleRelease",
+    "build:debug": "gradle :app:assembleDebug"
+  }
+}

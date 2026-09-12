@@ -1,0 +1,6 @@
+{
+  "name": "Farsh Bazaar",
+  "description": "Global marketplace for Iranian handwoven carpets, connecting artisans with buyers worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
